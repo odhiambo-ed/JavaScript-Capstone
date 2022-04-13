@@ -26,3 +26,13 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
 }
+
+footer {
+  background-color: #f1f1f1;
+}
+
+.copyright {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+
