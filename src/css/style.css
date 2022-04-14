@@ -48,3 +48,12 @@ footer {
   height: 300px;
   overflow-y: scroll;
 }
+
+.count-container ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.count-container ul li {
+  list-style: none;
+}

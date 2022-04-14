@@ -49,14 +49,18 @@
                 </div>
                 <div class="modal-body">
 
-                    <h3>WRITE COMMENT</h3>
-                    <input type="text" class="form-control" placeholder="username" name="username" id="username"
-                        required="required">
-                    <textarea placeholder="Type a comment here..." id="comment" class="from-control text"
-                        required=""></textarea>
+                    <h3>Leave your Comments</h3>
+                    <div class="form-group mt-4">
+                        <input type="text" class="form-control" placeholder="Your Username" name="username" id="username" required="required">
+                    </div>
+                    <div class="form-group mt-4">
+                        <textarea placeholder="Type a comment here..." id="comment" class="form-control text" rows="3" required=""></textarea>
+                    </div>
                     <input type="hidden" id="movie-comment-id" data-movie-id="" value="">
 
-                    <h3>COMMENTS (<span id="comments-count">0</span>)</h3>
+                    <div class="mt-4">
+                        <h5>Comments [<span id="comments-count">0</span>]</h5>
+                    </div>
                     <div class="count-container">
                         <ul id="comments"></ul>
                     </div>

@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![App Screenshot](app_screenshot.png)
 
 # JavaScript capstone project
 
@@ -20,6 +20,7 @@ This is an API-based App. A Microverse JavaScript Capstone project. It is about 
 ## Live Demo
 
 [Live Demo Link](http://edwardodhiambo.me/JavaScript-Capstone/)
+[Video Demo Link](https://www.loom.com/share/9af1832d540c45828082c64199bd836b)
 
 
 ## Getting Started
