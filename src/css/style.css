@@ -27,6 +27,15 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
 footer {
   background-color: #f1f1f1;
 }

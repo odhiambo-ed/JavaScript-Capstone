@@ -1,5 +1,5 @@
-import createLike from './createLikes';
-import getComments from './getComments';
+import createLike from './createLikes.js';
+import getComments from './getComments.js';
 
 const displayMovies = (movie) => {
   if (movie.name && movie.type) {
