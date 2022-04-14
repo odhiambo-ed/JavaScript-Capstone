@@ -1,62 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# JavaScript capstone project
 
-> Description the project.
+
+This is an API-based App. A Microverse JavaScript Capstone project. It is about building a web application based on an external `API`. We used the following two `APIs`:
+[x] [TVmaze API](https://www.tvmaze.com/api) - For data about TV series and movies
+[x] [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) - To record the different user interactions (likes, comments and reservations)
+
+
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+[x] Major languages - `HTML`, `CSS`, `SASS` and `JavaScript`
+[x] Frameworks - `Webpack`, `Bootstrap`, `Jest`, `JSON` and `Nodejs`
+[x] Technologies used - `ES6 Modules`, `Callbacks/Promises`, `Gitflow` and `APIs`
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://edwardodhiambo.me/JavaScript-Capstone/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Use this url to clone the repo on your terminal: https://github.com/white3d/JavaScript-Capstone.git
 
+After cloning the repo, change dir to the project folder then run the following:
 
-To get a local copy up and running follow these simple example steps.
+- [x] `npm install`
+- [x] `npm run build`
+- [x] `npm start`
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+Hurray!!! You are now good to go.
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+[Portfolio Website](https://edwardodhiambo.me/My-Portfolio/)
+
+- GitHub: [@whit3d](https://github.com/white3d)
+- Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/white3d/JavaScript-Capstone/issues).
 
 ## Show your support
 
