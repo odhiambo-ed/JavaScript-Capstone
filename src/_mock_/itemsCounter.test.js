@@ -1,6 +1,5 @@
 const { countItems } = require('./count.js');
 
-
 const itemsArray = [
   {
     movie: 'Movie1',

@@ -23,8 +23,6 @@ const commentArray = [
   },
 ];
 
-
-
 describe('Checking number of comments', () => {
   test('Checking our function passes for counting comments', () => {
     expect(countComments(commentArray)).toBe(5);

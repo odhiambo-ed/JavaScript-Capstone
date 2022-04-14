@@ -1,5 +1,4 @@
 const createLike = (id, e) => {
-  console.log('liked');
   const data = {
     item_id: id,
   };
