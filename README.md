@@ -47,6 +47,12 @@ Hurray!!! You are now good to go.
 
 👤 **Author2**
 
+[Portfolio Website](https://theophileaseh.github.io/)
+
+- GitHub: [@Theophileash](https://github.com/Theophileaseh)
+- Twitter: [@NwachanT](https://twitter.com/NwachanT)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile-342274172)
+
 
 ## 🤝 Contributing
 
