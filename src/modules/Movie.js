@@ -1,5 +1,5 @@
-import displayMovie from './displayMovies';
-import getLikes from './getLikes';
+import displayMovie from './displayMovies.js';
+import getLikes from './getLikes.js';
 
 export default class Movie {
   constructor() {

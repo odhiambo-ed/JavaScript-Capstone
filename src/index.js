@@ -1,8 +1,8 @@
 import 'bootstrap';
 import './css/style.css';
 import './scss/index.scss';
-import Movie from './modules/Movie';
-import createComment from './modules/createComment';
+import Movie from './modules/Movie.js';
+import createComment from './modules/createComment.js';
 
 const movie = new Movie();
 movie.fetchMovies();
