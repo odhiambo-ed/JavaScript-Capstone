@@ -12,5 +12,6 @@ document.querySelector('#comment-btn').addEventListener('click', () => {
   const comment = document.querySelector('#comment').value;
   const username = document.querySelector('#username').value;
 
-  createComment(movieId, comment, username);
+    createComment(movieId, comment, username);
+    document.querySelector("#comment").value = ""
 });
