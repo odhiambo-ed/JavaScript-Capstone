@@ -57,3 +57,9 @@ footer {
 .count-container ul li {
   list-style: none;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
